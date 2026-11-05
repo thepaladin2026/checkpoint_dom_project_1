@@ -1,11 +1,8 @@
-# Shopping Cart – DOM Workshop
+# DOM PROJECT 1
 
 ## Run the project
 
-1. Open `index.html` in a browser, or serve the folder with a local development server.
-2. The Bootstrap and Font Awesome files are loaded from their CDNs, so an internet connection is needed for those visual elements.
-
-For a local server, run this command from inside the `Shopping-Card` folder:
+Just Open `index.html` in a browser.
 
 
 ## Implemented behavior
